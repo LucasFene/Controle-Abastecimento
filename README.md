@@ -25,6 +25,9 @@ Inspirado visualmente em um app com layout clean e moderno, este projeto exibe:
 - Botão **“Adicionar Combustível”** para registrar novo abastecimento.
 - Lista com o **histórico dos últimos abastecimentos** (data, km e litros).
 - Visual inspirado em apps modernos, com design amigável.
+![image](https://github.com/user-attachments/assets/3cfd3839-6a5b-479f-8841-adea4305b467)
+## 🖼️ Tela cadastro
+![image](https://github.com/user-attachments/assets/8fa9fbb2-f75e-4902-a720-0c46f660a361)
 
 ---
 
